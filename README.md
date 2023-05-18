@@ -7,4 +7,4 @@ This repository contains a Julia notebook which approximates the $\sin(x)$ funct
 
 We start by studying our polynomial approximation to the $\sin(x)$ funciton. When approximated with a degree 10 polynomial we see strong aggreement with our approximated function and the actual function. 
 
-![sinapprox](https://github.com/ColeLovesSpace/Project-2--Linear/files/11511117/sinapprox.pdf)
+
